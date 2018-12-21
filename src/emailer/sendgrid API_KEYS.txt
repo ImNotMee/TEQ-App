@@ -1,9 +1,0 @@
-sendgrid API_KEYS
-
-TEST_EMAIL: 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
-
-teq_noreply : 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
-
-
-email : teqapp.noreply@gmail.com
-pass  : teqAppNoReplyPassword
